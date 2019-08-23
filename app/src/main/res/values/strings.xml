@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="app_name">FoodNowNew</string>
+    <string name="text_instant_food_delivery">Instant Food Delivery</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_forgot">Forgot?</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="text_sign_in_facebook">Sign In with Facebook</string>
+    <string name="text_sign_in_google">Sign In with Google</string>
+    <string name="text_view_basket">View Basket</string>
+    <string name="text_message">Message</string>
+    <string name="text_home">Home</string>
+    <string name="text_order">Order</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_update">Update</string>
+    <string name="text_change_password">Change Password</string>
+    <string name="text_fullname">Full name</string>
+    <string name="text_address">Address</string>
+    <string name="text_phone">Phone</string>
+    <string name="text_order_id">Order ID:</string>
+    <string name="text_cash">Cash</string>
+    <string name="text_cancel_booking">Cancel Booking</string>
+    <string name="text_no_order">There are no order</string>
+</resources>
